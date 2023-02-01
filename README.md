@@ -1,1 +1,1 @@
-# Understanding-Deep-Learning-with-Information-Theory
+# Goal Prediction Through Shot Classification Modelling
